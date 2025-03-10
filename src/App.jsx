@@ -5,7 +5,7 @@ import Hero from './components/hero'
 import About from './components/About'
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import NavBar from "./components/Navbar";
+import NavBar from "./components/navbar";
 function App() {
   return (
     <>
